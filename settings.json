@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorCustomizations": {},
+    "prettier.requireConfig": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.tabSize": 2
+}
